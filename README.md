@@ -1,5 +1,3 @@
-# streamlit
-
 # Projeto Dashboard de Carros - Sprint 5
 
 ## Descrição
@@ -17,13 +15,7 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit para análise
 3. Execute o aplicativo: `streamlit run app.py`
 
 ## Aplicativo Online
-🚀 **Acesse o aplicativo aqui:** [SUA_URL_DO_RENDER_AQUI]
-
-## Tecnologias Utilizadas
-- Python
-- Streamlit
-- Pandas
-- Plotly Express
+🚀 **Acesse o aplicativo aqui: https://streamlit-wyo3.onrender.com** 
 
 ## Estrutura do Projeto
 ```
@@ -31,6 +23,8 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit para análise
 ├── app.py
 ├── vehicles_us.csv
 ├── requirements.txt
+├── .gitignore
+├── vehicles_env/
 ├── notebooks/
 │   └── EDA.ipynb
 └── .streamlit/
